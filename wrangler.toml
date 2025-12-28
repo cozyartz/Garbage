@@ -1,0 +1,5 @@
+name = "garbagetrashwhore"
+compatibility_date = "2024-12-27"
+
+# Cloudflare Pages configuration
+pages_build_output_dir = "dist"
